@@ -1,0 +1,4 @@
+A ferramenta de busca esta correta,para testala,apenas digite "CS GO" desta maneira,a minha função era criar um sistema de busca,desde ja agardeço.
+LINK DO SITE: https://barra-de-pesquisa.pedro-henriqu49.repl.co/
+
+LINK GITHUB: https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-2021-2-proj-web-equipe-para-jogos/tree/master
